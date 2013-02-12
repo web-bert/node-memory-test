@@ -7,6 +7,7 @@ Usage
 =====
 
 1) Edit the app.js file and change the LINES variable to the amount of lines you want to test
+
 2) Run:
 ```javascript
 node app
